@@ -1,6 +1,8 @@
 ### Hi there 👋 🌱 I’m currently learning...
 
-Me chamo Igor Lisboa amo catar peças de computador no ferro velho e fazer um novo, sai muito barato, sou completamente apaixonado por tecnologia, e como está escrito acima eu... Atualmente estou aprendendo Desenvolvimento Web | Programação na Trybe, uma escola que ensina a programar, a aprender e o mais importante ensina a trabalhar. Trabalho e acredito em ações que possam gerar um impacto positivo na minha vida e assim contribuir para causar um impacto positivo também na vida de outras pessoas.
+Me chamo Igor Lisboa, amo procurar peças de computador no ferro velho e fazer um novo, sou apaixonado por tecnologia e atualmente estou aprendendo Desenvolvimento Web | Full Stack na Trybe uma escola que ensina a programar e ensina a trabalhar.
+Trabalho e acredito em ações que possam gerar um impacto positivo na minha vida e assim contribuir para impactar a vida de outras pessoas.
+
 
 <!--
 **Igor-Lisboa7/Igor-Lisboa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
