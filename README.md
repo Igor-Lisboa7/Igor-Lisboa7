@@ -7,6 +7,18 @@ Trabalho e acredito em ações que possam gerar um impacto positivo na minha vid
 <!--
 **Igor-Lisboa7/Igor-Lisboa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<h3 align="left">🖥️ Tecnologias e Ferramentas:</h3>
+      
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://simpleicons.org/icons/github.svg" title = "GITHUB"/></code> 
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title = "BASH"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" title = "SLACK"/></code>
+<code><img width="40px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" title = "VS CODE"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title = "LINUX"/></code>
+
 
 <!-- GITHUB STATUS -->
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igor-Lisboa7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
